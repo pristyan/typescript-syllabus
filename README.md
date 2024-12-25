@@ -32,13 +32,4 @@ This syllabus is divided into the following modules:
 6.  **Module 6: Advanced Topics and Best Practices**
     *   Explores advanced TypeScript features and best practices for writing maintainable and efficient code, including declaration merging, decorators, mixins, type-driven development, performance optimization tips, and integration with other development tools (ESLint, Prettier, testing frameworks).
 
-**Note:** The estimated time for each module is an approximation and may vary depending on your prior programming experience and learning pace.
-
-### How to Use This Syllabus
-
-*   **Work through the modules sequentially:** Each module builds upon the concepts learned in the previous modules.
-*   **Practice and experiment:** The best way to learn TypeScript is by applying it in your own projects.
-*   **Refer to the provided resources:** Use the official documentation, playground, and additional learning resources for clarification and deeper understanding.
-*   **Contribute to this repository (Optional):** Feel free to suggest improvements, add additional learning resources, or create pull requests to enhance this syllabus for the community.
-
 This syllabus serves as a starting point for your journey with TypeScript. As you continue learning and practicing, you'll discover even more powerful features and patterns for writing robust and maintainable JavaScript applications with TypeScript.
