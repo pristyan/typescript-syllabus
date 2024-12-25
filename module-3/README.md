@@ -1,4 +1,4 @@
-# Module 3: Advanced Types and Generics (10-15 hours)
+# Module 3: Advanced Types and Generics
 
 This module covers more advanced type system features in TypeScript, including generics, conditional types, mapped types, and utility types.
 
